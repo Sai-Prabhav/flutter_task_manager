@@ -1,0 +1,12 @@
+{
+    "cmake.sourceDirectory": "/home/greenflame/Desktop/code/flutter_learn/test_1/linux/flutter",
+    "[dart]": {
+        "editor.tabSize": 2,
+        "prettier.tabWidth": 2
+    },
+    "editor.tabSize": 2,
+    "prettier.tabWidth": 2,
+    "cSpell.words": [
+        "ARGB"
+    ]
+}
